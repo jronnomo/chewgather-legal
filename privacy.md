@@ -79,4 +79,4 @@ If we make material changes, we will update the effective date above and notify 
 Questions, requests, or concerns: **ggronnii@gmail.com**
 
 ---
-[Terms of Service](/chewgather-legal/terms/) · [Support](/chewgather-legal/)
+[Terms of Service](/terms/) · [Support](/support/)

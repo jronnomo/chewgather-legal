@@ -1,12 +1,9 @@
 ---
 title: Chewgather Support
+permalink: /support/
 ---
 
 # Chewgather — Support
-
-Chewgather is a social dining app: swipe through nearby restaurants, plan meals, and let your group vote on where to eat. The end of the dinner group chat.
-
-## Get help
 
 For any issue — bugs, account problems, questions, feedback — email us and we'll get back to you quickly:
 
@@ -28,5 +25,5 @@ Only to find restaurants near you while the app is open. You can enter a zip cod
 
 ## Legal
 
-- [Privacy Policy](/chewgather-legal/privacy/)
-- [Terms of Service](/chewgather-legal/terms/)
+- [Privacy Policy](/privacy/)
+- [Terms of Service](/terms/)

@@ -66,4 +66,4 @@ These Terms are governed by the laws of the Commonwealth of Virginia, USA, witho
 **ggronnii@gmail.com**
 
 ---
-[Privacy Policy](/chewgather-legal/privacy/) · [Support](/chewgather-legal/)
+[Privacy Policy](/privacy/) · [Support](/support/)
