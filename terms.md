@@ -3,15 +3,15 @@ title: Terms of Service
 permalink: /terms/
 ---
 
-# Chewgether Terms of Service
+# Chewgather Terms of Service
 
 **Effective date: July 1, 2026**
 
-These Terms govern your use of the Chewgether app. By creating an account or using the app, you agree to them.
+These Terms govern your use of the Chewgather app. By creating an account or using the app, you agree to them.
 
-## 1. Who can use Chewgether
+## 1. Who can use Chewgather
 
-You must be at least 13 years old to use Chewgether. If you are under 18, you confirm you have your parent or guardian's permission.
+You must be at least 13 years old to use Chewgather. If you are under 18, you confirm you have your parent or guardian's permission.
 
 ## 2. Your account
 
@@ -19,7 +19,7 @@ You are responsible for your account and for keeping your password secure. Provi
 
 ## 3. Community rules
 
-Chewgether is for planning meals with people you actually want to eat with. You agree not to:
+Chewgather is for planning meals with people you actually want to eat with. You agree not to:
 
 - Post content that is unlawful, hateful, harassing, threatening, sexually explicit, or discriminatory — including in your display name and plan titles;
 - Harass, intimidate, or spam other users, including via plan invites or join requests;
@@ -43,7 +43,7 @@ Restaurant information (names, photos, hours, ratings) comes from Google Places 
 
 ## 7. Termination
 
-You can stop using Chewgether at any time and delete your account in the app (Profile → Delete Account). We may suspend or terminate accounts that violate these Terms.
+You can stop using Chewgather at any time and delete your account in the app (Profile → Delete Account). We may suspend or terminate accounts that violate these Terms.
 
 ## 8. Disclaimers
 
@@ -51,7 +51,7 @@ The app is provided "as is" and "as available," without warranties of any kind, 
 
 ## 9. Limitation of liability
 
-To the maximum extent permitted by law, Chewgether and its creator are not liable for any indirect, incidental, special, consequential, or punitive damages, or any loss of data, arising from your use of the app. Our total liability for any claim relating to the app is limited to $50 or the amount you paid us in the past 12 months, whichever is greater.
+To the maximum extent permitted by law, Chewgather and its creator are not liable for any indirect, incidental, special, consequential, or punitive damages, or any loss of data, arising from your use of the app. Our total liability for any claim relating to the app is limited to $50 or the amount you paid us in the past 12 months, whichever is greater.
 
 ## 10. Changes to these Terms
 
@@ -66,4 +66,4 @@ These Terms are governed by the laws of the Commonwealth of Virginia, USA, witho
 **ggronnii@gmail.com**
 
 ---
-[Privacy Policy](/chewgether-legal/privacy/) · [Support](/chewgether-legal/)
+[Privacy Policy](/chewgather-legal/privacy/) · [Support](/chewgather-legal/)

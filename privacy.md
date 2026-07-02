@@ -3,11 +3,11 @@ title: Privacy Policy
 permalink: /privacy/
 ---
 
-# Chewgether Privacy Policy
+# Chewgather Privacy Policy
 
 **Effective date: July 1, 2026**
 
-Chewgether ("the app," "we," "us") is a social dining app that helps you and your friends decide where to eat. This policy explains what information we collect, why we collect it, and the choices you have. We keep it in plain language on purpose.
+Chewgather ("the app," "we," "us") is a social dining app that helps you and your friends decide where to eat. This policy explains what information we collect, why we collect it, and the choices you have. We keep it in plain language on purpose.
 
 **The short version:** we collect only what the app needs to work, we don't run ads, we don't use tracking or analytics SDKs, and we never sell your information.
 
@@ -15,7 +15,7 @@ Chewgether ("the app," "we," "us") is a social dining app that helps you and you
 
 **Account information.** When you create an account we collect your name, email address, and password (stored only as a secure hash — we cannot see your password). You may optionally add a phone number and a profile photo.
 
-**Contacts (optional).** If you choose to find friends from your contacts, the phone numbers from your address book are sent to our server **only to check for matches** against existing Chewgether accounts. Contact numbers are matched transiently and are **not stored** on our servers. You can use Chewgether fully without granting contacts access.
+**Contacts (optional).** If you choose to find friends from your contacts, the phone numbers from your address book are sent to our server **only to check for matches** against existing Chewgather accounts. Contact numbers are matched transiently and are **not stored** on our servers. You can use Chewgather fully without granting contacts access.
 
 **Location (optional, while using the app).** If you grant location access, your device location is used to find restaurants near you via Google Places. We do not track your location in the background and we do not keep a history of your locations on our servers. You may instead enter a zip code, or decline location entirely.
 
@@ -52,7 +52,7 @@ Like nearly every app, we rely on a small set of processors to run our infrastru
 
 ## Sharing within the app
 
-Chewgether is social by design: your name and profile photo are visible to other users; your plans are visible to invitees; public plans are visible to your friends in the Discover feed. You control plan visibility (private, friends-can-request, public) when creating a plan.
+Chewgather is social by design: your name and profile photo are visible to other users; your plans are visible to invitees; public plans are visible to your friends in the Discover feed. You control plan visibility (private, friends-can-request, public) when creating a plan.
 
 ## Safety: blocking and reporting
 
@@ -64,7 +64,7 @@ Your data is retained while your account is active. You can **delete your accoun
 
 ## Children
 
-Chewgether is not directed at children under 13, and we do not knowingly collect personal information from children under 13. If you believe a child under 13 has created an account, contact us and we will delete it.
+Chewgather is not directed at children under 13, and we do not knowingly collect personal information from children under 13. If you believe a child under 13 has created an account, contact us and we will delete it.
 
 ## Your rights
 
@@ -79,4 +79,4 @@ If we make material changes, we will update the effective date above and notify 
 Questions, requests, or concerns: **ggronnii@gmail.com**
 
 ---
-[Terms of Service](/chewgether-legal/terms/) · [Support](/chewgether-legal/)
+[Terms of Service](/chewgather-legal/terms/) · [Support](/chewgather-legal/)
