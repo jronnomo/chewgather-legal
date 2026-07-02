@@ -45,7 +45,7 @@ Like nearly every app, we rely on a small set of processors to run our infrastru
 |----------|---------|-------------------|
 | Google Places | Restaurant search & details | Your search coordinates (not stored by us) |
 | MongoDB Atlas | Database hosting | Account + app content |
-| Railway | API server hosting | App traffic |
+| Fly.io | API server hosting | App traffic |
 | Cloudinary | Profile photo storage | Your profile photo |
 | Expo | Push notification delivery | Push token, notification content |
 | Resend | Transactional email | Your email address (e.g., password reset) |
