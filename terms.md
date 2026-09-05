@@ -31,7 +31,7 @@ The app filters objectionable language automatically, and every user can **repor
 
 ## 4. Moderation and enforcement
 
-We review reports and may remove content, restrict features, suspend, or terminate accounts that violate these rules — with or without notice, at our discretion. Report handling and moderation questions: **ggronnii@gmail.com** (we aim to act on reports within 24 hours).
+We review reports and may remove content, restrict features, suspend, or terminate accounts that violate these rules — with or without notice, at our discretion. Report handling and moderation questions: **support@chewgather.com** (we aim to act on reports within 24 hours).
 
 ## 5. Your content
 
@@ -63,7 +63,7 @@ These Terms are governed by the laws of the Commonwealth of Virginia, USA, witho
 
 ## Contact
 
-**ggronnii@gmail.com**
+**support@chewgather.com**
 
 ---
 [Privacy Policy](/privacy/) · [Support](/support/)

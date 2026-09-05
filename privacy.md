@@ -76,7 +76,7 @@ If we make material changes, we will update the effective date above and notify 
 
 ## Contact
 
-Questions, requests, or concerns: **ggronnii@gmail.com**
+Questions, requests, or concerns: **support@chewgather.com**
 
 ---
 [Terms of Service](/terms/) · [Support](/support/)

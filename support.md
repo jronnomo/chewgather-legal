@@ -7,7 +7,7 @@ permalink: /support/
 
 For any issue — bugs, account problems, questions, feedback — email us and we'll get back to you quickly:
 
-**ggronnii@gmail.com**
+**support@chewgather.com**
 
 ## Common questions
 
